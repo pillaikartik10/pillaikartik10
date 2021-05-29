@@ -12,7 +12,7 @@ A simple YouTube Downloader, which can download videos in either .mp4 or .mp3 fo
 Sentiment Analysis(using TextBlob) on a webpage scraped using Selenium.  
   
 ### [4. Data Analysis on IPL dataset using Python](https://github.com/pillaikartik10/python-ipl-data-analysis)  
-Basic Data Analysis on an IPL(Indian Premier League) dataset using Python  
+Basic Data Analysis on an IPL(Indian Premier League) dataset available on Kaggle, using Python.  
   
 ### [5. Data Analysis and fitting a Linear Regression Model on a football dataset using Python](https://github.com/pillaikartik10/python-football-data-analysis)  
-Simple Data Analysis and fitting a Linear Regression Model on a football dataset using Python
+Simple Data Analysis and fitting a Linear Regression Model on a football dataset available on Kaggle, using Python.
