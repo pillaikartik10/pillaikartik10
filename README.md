@@ -1,4 +1,4 @@
-Hi, I’m @pillaikartik10. I am a Computer Science student, and am interested in Python. I am currently learning about the various functionalities of the language.    
+Hi, I’m Kartik Pillai. I am a Computer Science student, and am interested in Python. I am currently learning about the various functionalities of the language.    
   
 The following are some Beginner's Projects done by me, along with their GitHub link.  
   
