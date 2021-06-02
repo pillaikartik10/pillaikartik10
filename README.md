@@ -15,4 +15,7 @@ Sentiment Analysis(using TextBlob) on a webpage scraped using Selenium.
 Basic Data Analysis on an IPL(Indian Premier League) dataset available on Kaggle, using Python.  
   
 ### [5. Data Analysis and fitting a Linear Regression Model on a football dataset using Python](https://github.com/pillaikartik10/python-football-data-analysis)  
-Simple Data Analysis and fitting a Linear Regression Model on a football dataset available on Kaggle, using Python.
+Simple Data Analysis and fitting a Linear Regression Model on a football dataset available on Kaggle, using Python.  
+  
+### [6. Data Analysis on Reddit information extracted using PRAW](https://github.com/pillaikartik10/python-reddit-analysis)  
+Data extraction using the Python Reddit API Wrapper, and analysis on this data using various Python libraries.  
