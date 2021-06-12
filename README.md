@@ -19,3 +19,8 @@ Simple Data Analysis and fitting a Linear Regression Model on a football dataset
   
 ### [6. Data Analysis on Reddit information extracted using PRAW](https://github.com/pillaikartik10/python-reddit-analysis)  
 Data extraction using the Python Reddit API Wrapper, and analysis on this data using various Python libraries.  
+  
+S. No. | Name | Description
+-------|------|------------
+1 | [1. Webscraping and Basic Data Analysis on COVID](https://github.com/pillaikartik10/python-covid-data-analysis) | A basic project in Python and Jupyter Notebook, to scrape and analyse some Coronavirus-related data.
+2 | [2. YouTube Downloader using Python](https://github.com/pillaikartik10/python-youtube-downloader) | A simple YouTube Downloader, which can download videos in either .mp4 or .mp3 format on providing a working link.
