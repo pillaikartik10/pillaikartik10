@@ -6,7 +6,9 @@ The following are some Beginner's Projects done by me, along with their GitHub l
   
 ### 1. [Reddit Post Sentiment Analysis Dashboard](https://github.com/pillaikartik10/reddit-sentiment-analysis-dashboard)  
   
-This is a web dashboard created using Dash Plotly, and deployed on Heroku [here](https://reddit-sentiment-app.herokuapp.com/). On providing a valid URL to a Reddit post, it will extract the post comments, carry out sentiment analysis on them, and show the results in a graphical form. The main Python libraries used are PRAW(Python Reddit API Wrapper), Dash Plotly, TextBlob etc. Source code is available [here](https://github.com/pillaikartik10/reddit-sentiment-analysis-dashboard/blob/main/reddit-demo.py).  
+This is a web dashboard created using Dash Plotly, and deployed on Heroku [here](https://reddit-sentiment-app.herokuapp.com/).  
+On providing a valid URL to a Reddit post, it will extract the post comments, carry out sentiment analysis on them, and show the results in a graphical form. The main Python libraries used are PRAW(Python Reddit API Wrapper), Dash Plotly, TextBlob etc.   
+Source code is available [here](https://github.com/pillaikartik10/reddit-sentiment-analysis-dashboard/blob/main/reddit-demo.py).  
   
 ## Other Python Projects
   
