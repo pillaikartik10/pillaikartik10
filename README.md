@@ -1,3 +1,5 @@
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pillaikartik10)
+
 Hi, I’m Kartik Pillai. I am a Computer Science student, and am interested in Python. I am currently learning about the various functionalities of the language.    
   
 The following are some Beginner's Projects done by me, along with their GitHub link.  
