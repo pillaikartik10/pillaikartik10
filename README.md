@@ -10,6 +10,11 @@ This is a web dashboard created using Dash Plotly, and deployed on Heroku [here]
 On providing a valid URL to a Reddit post, it will extract the post comments, carry out sentiment analysis on them, and show the results in a graphical form. The main Python libraries used are PRAW(Python Reddit API Wrapper), Dash Plotly, TextBlob etc.   
 Source code is available [here](https://github.com/pillaikartik10/reddit-sentiment-analysis-dashboard/blob/main/reddit-demo.py).  
   
+### 2. [Online Resume Maker](https://github.com/pillaikartik10/resume-maker)
+  
+This is a basic online resume maker created using the Python Django library, and deployed on Heroku [here](https://resume-formatter.herokuapp.com/).  
+The user enters some basic details regarding themselves. The generated resume can be viewed online, or downloaded locally as a PDF file. It is a beginner's project to test out the basic Django functionalities, and thus has a substantial room for improvement.
+  
 ## Other Python Projects
   
 No. | Name | Description
